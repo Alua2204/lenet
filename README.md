@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. #### **Step 1: Train and Quantize the Model**
+#### **Step 1: Train and Quantize the Model**
 1. **Open the Notebook**  
    Run the following command to start Jupyter Notebook:
    ```bash
