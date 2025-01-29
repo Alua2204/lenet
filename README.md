@@ -34,9 +34,6 @@ pip install -r requirements.txt
   - `results.csv`: Random fault injection results
   - `results_c1_5.csv`: Targeted fault injection results for layer c1, bit position 5
   - Various analysis CSV files: `table_4.csv`, `bit_position_impact.csv`, `layer_impact.csv`, `flip_direction_table.csv`
-- **Helper Scripts**:
-  - `dir.py`: Utilities to organize directories.
-  - `chart.py`: Visualization tools for result analysis.
 
 ## Usage
 
